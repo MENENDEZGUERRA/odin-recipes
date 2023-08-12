@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    background-color: #fb8500;
+    color: #023047;
+
+    font-family: 'Lucida Handwriting', fantasy;
+
+}
+
+.header-title {
+    margin-top: 10px;
+    text-align: center;
+    background-color: #ffb703;
+    padding: 10px;
+}
+
+.image-container {
+    padding: 20px;
+    background-color: #ffb703;
+    margin-bottom: 10px;
+}
+
+.image-container #main-image {
+    display: block;
+    width: 40%;
+    margin: auto;
+}
+
+.recipes-list-container{
+    background-color: #ffb703;
+}
+
+
+ul {
+    
+    color: #023047;
+    background-color: #ffb703;
+    padding-left: 0;
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li {
+    background-color:#ffb703;
+}
+
+a {
+    color: #023047;
+    background-color: #ffb703;
+}
